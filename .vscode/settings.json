@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "node_modules": "explorerExcludedFiles",
+    "public/hot": "explorerExcludedFiles",
+    "public/storage": "explorerExcludedFiles",
+    "storage/*.key": "explorerExcludedFiles",
+    "vendor": "explorerExcludedFiles",
+    ".idea": "explorerExcludedFiles",
+    ".vscode": "explorerExcludedFiles",
+    ".vagrant": "explorerExcludedFiles",
+    "Homestead.json": "explorerExcludedFiles",
+    "Homestead.yaml": "explorerExcludedFiles",
+    "npm-debug.log": "explorerExcludedFiles",
+    "yarn-error.log": "explorerExcludedFiles",
+    ".env": "explorerExcludedFiles"
+  }
+}
